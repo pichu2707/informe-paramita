@@ -39,4 +39,4 @@ Para instalar la librerías únicamente necesitas hacer ```pip install -r requir
 
 Es aconsejable crear un entorno virtual para hacer estas tareas
 
-````pip install -m venv (nombre del entorno virtual)```
+```pip install -m venv (nombre del entorno virtual)```
